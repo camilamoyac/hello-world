@@ -22,5 +22,5 @@ The web app is built with JavaScript (ES6) to handle user interaction and update
 
 # Useful Websites
 
-* [Web Site Name](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting)
-* [Web Site Name](https://www.w3schools.com/tags/tag_button.asp)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting)
+* [W3Schools](https://www.w3schools.com/tags/tag_button.asp)
